@@ -120,7 +120,7 @@
     "url-loader": "^0.5.7",
     "useragent": "^2.1.9",
     "uuid": "^3.0.1",
-    "validator": "^4.9.0",
+    "validator": "^13.7.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
     "vue": "^2.1.0",
