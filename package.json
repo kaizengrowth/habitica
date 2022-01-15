@@ -110,7 +110,7 @@
     "s3-upload-stream": "^1.0.6",
     "sass-loader": "^6.0.2",
     "serve-favicon": "^2.3.0",
-    "shelljs": "^0.7.6",
+    "shelljs": "^0.8.5",
     "stripe": "^4.2.0",
     "superagent": "^3.4.3",
     "svg-inline-loader": "^0.7.1",
